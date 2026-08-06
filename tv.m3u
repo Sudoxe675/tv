@@ -9,40 +9,18 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Reality Kings TV HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Общие", loganettv movie
-https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
-https://t.me/loganettv_original
-#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="Кино" tvg-id="sony-tv" audio-track="rus", .Red
-http://158.101.222.193:88/georgia_play.php?id=red
-#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi
-http://158.101.222.193:88/georgia_play.php?id=scifi
+
+
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi HD
 http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1 HD
-http://stream.mcquack.net/117/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2
-http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit
-http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit HD
-http://194.152.35.17/amedia-hit/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Premium
 http://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Premium HD
-http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood
-https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Bolt HD
-http://stream.mcquack.net/73/index.m3u8
+
 #EXTINF:-1 group-title="Кино" audio-track="rus", Cinema
 http://194.152.35.17/cinema/index.m3u8
+
 #EXTINF:-1 group-title="Кино" audio-track="rus", Epic Drama
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FAN
