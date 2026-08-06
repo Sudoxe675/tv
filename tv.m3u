@@ -21,50 +21,20 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FX Life HD
 http://stream.mcquack.net/129/index.m3u8
-
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood
 http://stream1.cinerama.uz/1443/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood HD
-http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
-https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Shot TV
-http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000
 http://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action
-http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 русское HD
 https://stream1.cinerama.uz/1059/mono.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Comedy
-http://185.46.16.239:8000/VIP_Comedy
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Comedy HD
-http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Megahit
-http://185.46.16.239:8000/VIP_Megahit
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Megahit HD
-http://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Premiere
-https://stream2.somon.tv/vippremiera/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Premiere HD
-http://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Serial
-http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Serial HD
-https://stream2.somon.tv/vipserial/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Видеокассета HD
 https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 group-title="Кино" tvg-id="domkino" audio-track="rus", Дом кино
-http://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум
 http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум HD
-http://stream.mcquack.net/108/index.m3u8
+
+
 #EXTINF:-1 group-title="Кино" tvg-id="dorama" audio-track="rus", Дорама
 http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино
