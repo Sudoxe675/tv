@@ -31,44 +31,24 @@ http://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://stream1.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Видеокассета HD
 https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
-#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум
-http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-
 #EXTINF:-1 group-title="Кино" tvg-id="dorama" audio-track="rus", Дорама
 http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино
-http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино HD
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" audio-track="rus", Иллюзион+
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" audio-track="rus", Индийское кино
 http://188.113.190.12/329/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="zee-tv" audio-track="rus", Индия
-http://31.210.208.171:8080/indiya/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" tvg-id="kineko" audio-track="rus", Кинеко HD
-http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
-http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ HD
-http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" audio-track="rus", КиноМеню HD
-http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosezon" audio-track="rus", КиноСезон HD
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия HD
-http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinosat" audio-track="rus", Киноман
-http://31.210.208.171:8080/kinoman/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks" audio-track="rus", Киномикс
 http://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ
-http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера
 https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера HD
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание
