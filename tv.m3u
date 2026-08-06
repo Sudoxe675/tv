@@ -71,15 +71,13 @@ http://stream.mcquack.net/126/index.m3u8
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia" audio-track="rus", Комедия
 http://176.118.197.101/Komediya/mono.m3u8
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Любимое кино
 http://213.91.179.28:8000/play/a0af
 #EXTINF:-1 group-title="Кино" audio-track="rus", Любимое кино HD
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Мир сериала HD
-http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+
 
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
