@@ -77,17 +77,13 @@ http://213.91.179.28:8000/play/a0af
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция HD
-http://stream.mcquack.net/369/index.m3u8
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино
 https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино HD
 http://stream.mcquack.net/107/index.m3u8
+
 #EXTINF:-1 group-title="Кино" audio-track="rus", НСТ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", НТВ-Сериал
