@@ -89,14 +89,8 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кино" audio-track="rus", Ретро
 http://176.118.197.101/Retro/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Кино" audio-track="rus", Русский роман
-http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", Русский роман HD
 https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Сапфир HD
 http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
@@ -127,9 +121,5 @@ https://cityeden.catcast.tv/content/46209/index.m3u8?password=loganet
 https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино" audio-track="rus", Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
-http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Феникс Плюс Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="Кино" audio-track="rus", Хит HD
-http://stream.mcquack.net/363/index.m3u8
