@@ -83,27 +83,20 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино HD
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", НСТ
-http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/mono.m3u8
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кино" audio-track="rus", Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Родное кино
-http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" audio-track="rus", Русский бестселлер
-http://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Русский детектив
-https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Русский иллюзион
-http://185.46.16.239:8000/Russkiy_Illyuzion
+
+
+
 #EXTINF:-1 group-title="Кино" audio-track="rus", Русский роман
 http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", Русский роман HD
 https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
 #EXTINF:-1 group-title="Кино" audio-track="rus", Сапфир HD
 http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
