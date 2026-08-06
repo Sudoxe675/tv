@@ -17,18 +17,12 @@ http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
 http://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
-
-#EXTINF:-1 group-title="Кино" audio-track="rus", Cinema
-http://194.152.35.17/cinema/index.m3u8
-
 #EXTINF:-1 group-title="Кино" audio-track="rus", Epic Drama
 http://195.189.60.253/118/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", FX Life HD
 http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FlixSnip
-http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood
 http://stream1.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood HD
